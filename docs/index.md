@@ -68,7 +68,7 @@ author: Ирина Князева
       <td rowspan="1">Практика</td>
       <td><a href="en/week01/01-3">matplotlib</a></td>
       <td>
-TBA
+        <a href="https://colab.research.google.com/drive/1v3nd-31ycQtHIOd34-Nop1wimPjVcd_X?usp=sharing">Визуализация в Python📓</a>
       </td>
     </tr>
     <!-- =============================== WEEK3 ================================ -->
