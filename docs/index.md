@@ -86,7 +86,7 @@ author: Ирина Князева
       <td rowspan="1">Практика</td>
       <td><a href="en/week01/01-3">Работа с таблицами Pandas</a></td>
       <td>
-TBA
+        <a href="https://colab.research.google.com/drive/1qouQItx6PYM1U6FAlMr5y2JGFucS5oNf?usp=sharing"> SpbBars📓</a>
       </td>
     </tr>
     <!-- =============================== WEEK 4 ================================ -->
