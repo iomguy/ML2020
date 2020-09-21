@@ -73,39 +73,39 @@ author: Ирина Князева
     </tr>
     <!-- =============================== WEEK3 ================================ -->
     <tr>
-      <td rowspan="3" align="center"><a href="week02/02">③ (21/09)</a></td>
+      <td rowspan="3" align="center"><a href="week03/01">③ (21/09)</a></td>
       <td rowspan="2">Теория</td>
-      <td><a href="week01/01-1">Типы данных, особенности работы с ними  </a></td>
+      <td><a href="week03/02">Типы данных, особенности работы с ними  </a></td>
       <td rowspan="2">
-        <a href="https://www.vision.rwth-aachen.de/media/course/SS/2019/computer-vision/cv19-part02-image-processing.pdf">🖥️</a> <a href="https://youtu.be/hpqrDUuk7HY">🎥</a>
-        <a href="https://youtu.be/5xdbJ7z4Nrc">🎥</a>
+        <a href="https://www.datacamp.com/">🎥</a>
       </td>
     </tr>
-    <tr><td><a href="week01/01-2">  Категориальные и числовые данные, кодирование 😵</a></td></tr>
+    <tr><td><a href="week03/03">  Категориальные и числовые данные, кодирование 😵</a></td></tr>
     <tr>
       <td rowspan="1">Практика</td>
-      <td><a href="en/week01/01-3">Работа с таблицами Pandas</a></td>
+      <td><a href="en/week03/04">Работа с таблицами Pandas</a></td>
       <td>
+        <a href="https://colab.research.google.com/drive/1f1ELMr3Cnn-4vZ3BrizYs5yzbLv7zFdT?usp=sharing"> Пример работы с Pandas📓</a>
         <a href="https://colab.research.google.com/drive/1qouQItx6PYM1U6FAlMr5y2JGFucS5oNf?usp=sharing"> SpbBars📓</a>
       </td>
     </tr>
     <!-- =============================== WEEK 4 ================================ -->
     <tr>
-      <td rowspan="3" align="center"><a href="week02/02">④ (28/09)</a></td>
+      <td rowspan="3" align="center"><a href="week04/01">④ (28/09)</a></td>
       <td rowspan="2">Теория</td>
-      <td><a href="week01/01-1">Элементы теории обучения. Обучение с учителем</a></td>
+      <td><a href="week04/02">Элементы теории обучения. Обучение с учителем</a></td>
       <td rowspan="2">
         <a href="https://amueller.github.io/COMS4995-s19/slides/aml-04-supervised-learning">🖥️</a> 
         <a href="https://youtu.be/MEEWqrJEtTg">🎥</a>
         <a href="https://youtu.be/RflfnCsgNyI">🎥</a>
       </td>
     </tr>
-    <tr><td><a href="week01/01-2"> Повторяем линейную алгебру </a></td></tr>
+    <tr><td><a href="week04/03"> Повторяем линейную алгебру </a></td></tr>
     <tr>
       <td rowspan="1">Практика</td>
-      <td><a href="en/week01/01-3"></a></td>
+      <td><a href="en/week04/03"></a>Манипуляции с матрицами</td>
       <td>
-TBA
+  <a href="https://colab.research.google.com/drive/1JtZWAqEnoiGoC-yE-XsWGweJiwT0LdsP?usp=sharing"> Матрицы и вектора📓</a>
       </td>
     </tr>
     <!-- =============================== WEEK 5 ================================ -->
