@@ -96,8 +96,9 @@ author: Ирина Князева
       <td><a href="week04/02">Элементы теории обучения. Обучение с учителем</a></td>
       <td rowspan="2">
         <a href="https://amueller.github.io/COMS4995-s19/slides/aml-04-supervised-learning">🖥️</a> 
-        <a href="https://youtu.be/MEEWqrJEtTg">🎥</a>
-        <a href="https://youtu.be/RflfnCsgNyI">🎥</a>
+        <a href="https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN">Плейлист от Anrew NG (2,3)🎥</a>
+        <a href="https://youtu.be/MEEWqrJEtTg">В примерах от Andreas🎥</a>
+        <a href="https://youtu.be/RflfnCsgNyI">Что такое обучение (hard)🎥</a>
       </td>
     </tr>
     <tr><td><a href="week04/03"> Повторяем линейную алгебру </a></td></tr>
@@ -105,7 +106,8 @@ author: Ирина Князева
       <td rowspan="1">Практика</td>
       <td><a href="en/week04/03"></a>Манипуляции с матрицами</td>
       <td>
-  <a href="https://colab.research.google.com/drive/1JtZWAqEnoiGoC-yE-XsWGweJiwT0LdsP?usp=sharing"> Матрицы и вектора📓</a>
+        <a href="https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN">Algebra review in Anrew NG (Ch 3)🎥</a>
+        <a href="https://colab.research.google.com/drive/1JtZWAqEnoiGoC-yE-XsWGweJiwT0LdsP?usp=sharing"> Матрицы и вектора📓</a>
       </td>
     </tr>
     <!-- =============================== WEEK 5 ================================ -->
